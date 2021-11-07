@@ -20,6 +20,8 @@ Typing test is a simple web application that measures and displays your metrics 
 
 This project was developed in cooperation with [3stbn](https://github.com/3stbn) and you can see the video os his youtube channel [Estaban Codes](https://www.youtube.com/channel/UCbWV65OoGP6mw2pGd0c5E-g).
 
+I'm really slow typing in a non-native language, my best score was 42, what about yours?
+
 In this application it was possible to deepen knowledge in front-end development, reviewing concepts like:
 
 React-Components,
