@@ -1,5 +1,5 @@
 
-<h1 align="center">⌨ Typing Test ⌨</h1>
+<h1 align="center">⌨   Typing Test   ⌨</h1>
 <p align="center">
   <a href="#desktop_computer-project"><img src="https://img.shields.io/static/v1?label=&message=Project&color=333333&style=for-the-badge&logo=Next.js"/></a>&nbsp;
   <a href="#technologist-technologies"><img src="https://img.shields.io/static/v1?label=&message=Technologies&color=333333&style=for-the-badge&logo=Jamstack"/></a>
