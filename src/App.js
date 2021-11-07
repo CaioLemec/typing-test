@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import randomWords from "random-words";
 
 const NumbersOfWords = 250;
-const SecondsCountDown = 3;
+const SecondsCountDown = 60;
 
 function App() {
   const [words, setWords] = useState([]);

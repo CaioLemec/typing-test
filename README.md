@@ -1,70 +1,85 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">⌨ Typing Test ⌨</h1>
+<p align="center">
+  <a href="#desktop_computer-project"><img src="https://img.shields.io/static/v1?label=&message=Project&color=333333&style=for-the-badge&logo=Next.js"/></a>&nbsp;
+  <a href="#technologist-technologies"><img src="https://img.shields.io/static/v1?label=&message=Technologies&color=333333&style=for-the-badge&logo=Jamstack"/></a>
+  <a href="#octocat-environment"><img src="https://img.shields.io/static/v1?label=&message=Environment&color=333333&style=for-the-badge&logo=visual-studio-code"/></a>&nbsp;
+  <a href="#bookmark_tabs-license"><img src="https://img.shields.io/static/v1?label=&message=License&color=333333&style=for-the-badge&logo=LibreOffice"/></a>&nbsp;
+</p>
+<p align="center">
+ <img alt="typing test mockup" src="./public/typingTest.png" width="auto">
+</p>
+<hr>
 
-## Available Scripts
+## :desktop_computer: Project
 
-In the project directory, you can run:
+How fast are you typing? 😄
 
-### `yarn start`
+Typing test is a simple web application that measures and displays your metrics as you type.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project was developed in cooperation with [3stbn](https://github.com/3stbn) and you can see the video os his youtube channel [Estaban Codes](https://www.youtube.com/channel/UCbWV65OoGP6mw2pGd0c5E-g).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+In this application it was possible to deepen knowledge in front-end development, reviewing concepts like:
 
-### `yarn test`
+React-Components,
+React-Props,
+React-Hooks,
+Callbacks,
+CSS framework,
+Random Words lib,
+much more ...
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :technologist: Technologies
 
-### `yarn build`
+- [ReactJS](https://pt-br.reactjs.org/)
+- [NodeJS](https://nodejs.org/en/)
+- [Bulma](https://bulma.io/)
+- [random-words](https://www.npmjs.com/package/random-words)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :octocat: Environment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Keep in mind that the following installations will be needed:
 
-### `yarn eject`
+- [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
+- [Npm](https://www.npmjs.com/) 
+- [Yarn](https://yarnpkg.com/) 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+>`Alert 1:` Due to some features in the styling, it is not recommended to use IE 6-8 as a browser when using this application. <br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Follow the instructions to run the application:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Clone the repository: 
+```bash 
+git@github.com:CaioLemec/typing-test.git
+```
+2. Install all dependencies by using command:
+```bash
+ yarn
+ ```
+3. At your terminal set this command line to get <strong>dev</strong> mode running:
+```bash
+yarn dev
+```
+4. Access the generated address in your browser:
+```bash
+http://localhost:3000/
+```
+<hr>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :bookmark_tabs: License
 
-## Learn More
+Licensed under MIT [LICENSE](./LICENSE.md).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<hr>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I am available for any clarification. 
+    
+<img style="border-radius: 30%;" src="https://avatars3.githubusercontent.com/u/59886891?s=460&v=4" width="75px;"/>
+<h3>Caio Lemec<h3>
+<a href="https://t.me/caiolemec"><img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="mailto:caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=333333&style=for-the-badge&logo=Gmail"/>
+<a href="https://www.linkedin.com/in/caiolemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=333333&style=for-the-badge&logo=linkedin"/>
+<br>
+</p>
