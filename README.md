@@ -2,6 +2,7 @@
 <h1 align="center">⌨   Typing Test   ⌨</h1>
 <p align="center">
   <a href="#desktop_computer-project"><img src="https://img.shields.io/static/v1?label=&message=Project&color=333333&style=for-the-badge&logo=Next.js"/></a>&nbsp;
+   <a href="#nail_care-layout"><img src="https://img.shields.io/static/v1?label=&message=Layout&color=2DBEB1&style=for-the-badge&logo=CSS3"/></a>&nbsp;
   <a href="#technologist-technologies"><img src="https://img.shields.io/static/v1?label=&message=Technologies&color=333333&style=for-the-badge&logo=Jamstack"/></a>
   <a href="#octocat-environment"><img src="https://img.shields.io/static/v1?label=&message=Environment&color=333333&style=for-the-badge&logo=visual-studio-code"/></a>&nbsp;
   <a href="#bookmark_tabs-license"><img src="https://img.shields.io/static/v1?label=&message=License&color=333333&style=for-the-badge&logo=LibreOffice"/></a>&nbsp;
@@ -28,6 +29,15 @@ Callbacks,
 CSS framework,
 Random Words lib,
 much more ...
+
+## :nail_care: Layout
+<p align="center">
+<img src="./public/typingTest.gif" width="auto"/>
+
+</p>
+<br>
+<br>
+<hr>
 
 ## :technologist: Technologies
 
