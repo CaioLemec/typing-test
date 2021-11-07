@@ -37,8 +37,6 @@ much more ...
 <img src="./public/typingTest.gif" width="auto"/>
 
 </p>
-<br>
-<br>
 <hr>
 
 ## :technologist: Technologies
